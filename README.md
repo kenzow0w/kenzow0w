@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-<a href="https://t.me/vvl_volodin" target="blank"><img align="center" src="https://iconscout.com/icon/telegram-2752057" alt="https://t.me/vvl_volodin" height="30" width="40" /></a>
+<a href="https://t.me/vvl_volodin" target="blank"><img align="center" src="<a href="https://iconscout.com/icons/telegram" target="_blank">Telegram Logo Icon</a> by <a href="https://iconscout.com/contributors/jagathish">Jagathish Saravanan</a> on <a href="https://iconscout.com">IconScout</a>" alt="https://t.me/vvl_volodin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
