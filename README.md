@@ -9,11 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vladislav-volodin-556370199/?locale=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vladislav-volodin-556370199/?locale=en_us" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vladislav-volodin-556370199/?locale=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vladislav-volodin-556370199/?locale=en_us" height="30" width="40" /></a> <a href="https://t.me/vvl_volodin" target="blank"><img align="center" src="jetbrains://idea/navigate/reference?project=kenzow0w&path=assets/telegram.png" alt="https://www.linkedin.com/in/vladislav-volodin-556370199/?locale=en_us" height="30" width="40" /></a>
 </p>
 
 <p align="left">
-<a href="https://t.me/vvl_volodin" target="blank"><img align="center" src="<a href="https://iconscout.com/icons/telegram" target="_blank">Telegram Logo Icon</a> by <a href="https://iconscout.com/contributors/jagathish">Jagathish Saravanan</a> on <a href="https://iconscout.com">IconScout</a>" alt="https://t.me/vvl_volodin" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
