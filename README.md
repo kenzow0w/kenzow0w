@@ -3,12 +3,20 @@
 
 # <img width="5%" title="About me" src="assets/account.png"> About me
 
-<img align="right" width="35%" src="">
+[//]: # (<img align="right" width="35%" src="">)
 
-### _I'm — Automation QA Engineer_ <img width="3%" src="">
+### _I'm — Automation QA Engineer_ 
+
+[//]: # (<img width="3%" src="">)
 
 <p align="left">
-Имею более 3 лет опыта в тестировании web-приложений и обеспечении качества. Регулярно обучаюсь в сфере тестирования. Изучаю новые технологии и совершенствую полученные навыки.
+I've taken great pleasure in all the positions I've had during my career - from starting out as a Mechanical Engineer to being promoted to the Manager of Technological Department in the leading Space and Rocket company. This personal and professional experience has shaped me into a highly flexible, industrious and proactive worker who is willing to take initiative, lead people forward and provide momentum for change.
+
+In 2021, I was bold enough to change the direction of my career for something which has always sparked my interest - Information Technology. This leads me to believe that I'm an exceptionally fast learner who never settles for less:
+
+- I successfully graduated from a rigorous training course provided by one of the world's leading IT companies - NetCracker Technology Corporation;
+- I strive to improve my English skills and move from B1 to mastery;
+- I educate and drive myself to become a better specialist on a daily basis. Currently I'm studying Spring Framework in my free time.
 </p>
 - 🌱 I’m currently learning **Spring Framework.**
 - 🌱 In 2023 I'm going to pass **ISTQB Foundation Level**.
