@@ -3,7 +3,7 @@
 
 # <img width="5%" title="About me" src="assets/account.png"> About me
 
-<img align="right" width="35%" src="assets/account.png">
+<img align="right" width="35%" src="">
 
 ### _I'm — Automation QA Engineer_ <img width="3%" src="attachments/images/bug.png">
 
