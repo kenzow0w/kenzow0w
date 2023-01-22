@@ -5,7 +5,7 @@
 
 <img align="right" width="35%" src="">
 
-### _I'm — Automation QA Engineer_ <img width="3%" src="attachments/images/bug.png">
+### _I'm — Automation QA Engineer_ <img width="3%" src="">
 
 <p align="left">
 Имею более 3 лет опыта в тестировании web-приложений и обеспечении качества. Регулярно обучаюсь в сфере тестирования. Изучаю новые технологии и совершенствую полученные навыки.
