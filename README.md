@@ -5,7 +5,7 @@
 
 [//]: # (<img align="right" width="35%" src="">)
 
-### _I'm — Automation QA Engineer_ 
+[//]: # (### _I'm — Automation QA Engineer_ )
 
 [//]: # (<img width="3%" src="">)
 
