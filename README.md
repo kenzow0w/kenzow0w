@@ -16,7 +16,7 @@ In 2021, I was bold enough to change the direction of my career for something wh
 
 - I successfully graduated from a rigorous training course provided by one of the world's leading IT companies - NetCracker Technology Corporation;
 - I strive to improve my English skills and move from B1 to mastery;
-- I educate and drive myself to become a better specialist on a daily basis. Currently I'm studying Spring Framework in my free time.
+- I educate and drive myself to become a better specialist on a daily basis.
 </p>
 - 🌱 I’m currently learning **Spring Framework.**
 - 🌱 In 2023 I'm going to pass **ISTQB Foundation Level**.
