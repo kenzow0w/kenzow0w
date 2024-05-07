@@ -18,8 +18,6 @@ In 2021, I was bold enough to change the direction of my career for something wh
 - I strive to improve my English skills and move from B1 to mastery;
 - I educate and drive myself to become a better specialist on a daily basis.
 </p>
-- 🌱 I’m currently learning **Spring Framework.**
-- 🌱 In 2023 I'm going to pass **ISTQB Foundation Level**.
 
 <br/>
 
