@@ -15,7 +15,7 @@ I've taken great pleasure in all the positions I've had during my career - from 
 In 2021, I was bold enough to change the direction of my career for something which has always sparked my interest - Information Technology. This leads me to believe that I'm an exceptionally fast learner who never settles for less:
 
 - I successfully graduated from a rigorous training course provided by one of the world's leading IT companies - NetCracker Technology Corporation;
-- I strive to improve my English skills and move from B1 to mastery;
+- I strive to improve my English skills and move from B2 to mastery;
 - I educate and drive myself to become a better specialist on a daily basis.
 </p>
 
